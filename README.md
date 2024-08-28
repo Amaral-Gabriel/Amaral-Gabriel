@@ -18,6 +18,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/amaral-gabriel/amaral-gabriel/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amaral-gabriel/amaral-gabriel/output/snake.svg" alt="Snake animacao" />
 
 
