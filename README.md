@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gabriel Amaral</h1>
-<h3 align="center">A software engineering student from Brasil</h3>
+<h1 align="center">Oi 👋, Eu sou Gabriel Amaral</h1>
+<h3 align="center">Um estudante de Engenharia de Software do Brasil</h3>
 
-- 🔭 I’m currently working on [To-Do List Gabes](https://github.com/Amaral-Gabriel/To-Do-List-Gabes)
+- 🔭 Esse é o meu projeto atual: [To-Do List Gabes](https://github.com/Amaral-Gabriel/To-Do-List-Gabes)
 
-- 🌱 I’m currently learning **Java, Python,Angular...**
+- 🌱 Aprendendo: **Java, Python,Angular...**
 
-- 📫 How to reach me **se.gabrielamaral@gmail.com**
+- 📫 Fala comigo: **se.gabrielamaral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
