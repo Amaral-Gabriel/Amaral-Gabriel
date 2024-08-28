@@ -18,7 +18,5 @@
 
 
 
-<img src="https://github.com/amaral-gabriel/amaral-gabriel/blob/output/github-contribution-grid-snake2.svg" alt="Snake animacao" />
-
 ![snake animation](https://github.com/amaral-gabriel/amaral-gabriel/blob/output/github-contribution-grid-snake2.svg)
 
