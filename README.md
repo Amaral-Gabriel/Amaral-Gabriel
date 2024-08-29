@@ -1,11 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Gabriel Amaral</h1>
 <h3 align="center">Um estudante de Engenharia de Software do Brasil</h3>
 
+<div>
+  
 - 🔭 Esse é o meu projeto atual: [To-Do List Gabes](https://github.com/Amaral-Gabriel/To-Do-List-Gabes)
 
 - 🌱 Aprendendo: **Java, Python, Angular...**
 
 - 📫 Fala comigo: **se.gabrielamaral@gmail.com**
+
+<div/>
 
 <h3 align="center">Estou online em:</h3>
 <p align="center">
@@ -19,9 +23,14 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaral-gabriel&layout=compact" alt="Top Langs" />
-  <img align="right" scr ="https://discord.com/channels/1278713547060416515/1278713547060416518/1278713986136805500" alt="Gabriel Amaral GIF"
 </div>
 
-<img src="https://giphy.com/embed/k5RHy7JTyS0xoIG2Yn" width="436" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhkejFudGRmdHllc2d0OWsyb2wxdWVyaW5vM3hranFwc3QyNDJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vyPoD0c6U0oG1ThqBn/giphy.gif" alt="Descrição do GIF" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+
+
+
+
+
+
 
 
