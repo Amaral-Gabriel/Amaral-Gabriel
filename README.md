@@ -28,3 +28,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaral-gabriel&layout=compact" alt="Top Langs" />
 </div>
+
+
+
+
+
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amaral-gabriel/amaral-gabriel/output/github-contribution-grid-snake.svg" />
