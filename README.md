@@ -31,6 +31,4 @@
 
 
 
-
-
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amaral-gabriel/amaral-gabriel/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amaral-gabriel/amaral-gabriel/output/github-contribution-grid-snake.svg" />
