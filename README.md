@@ -20,3 +20,6 @@
 
 ![snake animation](https://github.com/amaral-gabriel/amaral-gabriel/blob/output/github-contribution-grid-snake2.svg)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaral-gabriel&layout=compact)
