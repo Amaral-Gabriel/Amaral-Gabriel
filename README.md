@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+World!;Oi%F0%9F%91%8B%2C+eu+sou+Gabriel+Amaral!;+Hi%F0%9F%91%8B%2C+I'm+Gabriel+Amaral!;Hola%F0%9F%91%8B%2C+soy+Gabriel+Amaral!;Ciao%F0%9F%91%8B%2C+io+sono+Gabriel+Amaral!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;Oi%F0%9F%91%8B%2C+eu+sou+Gabriel+Amaral!;+Hi%F0%9F%91%8B%2C+I'm+Gabriel+Amaral!;Hola%F0%9F%91%8B%2C+soy+Gabriel+Amaral!;Ciao%F0%9F%91%8B%2C+io+sono+Gabriel+Amaral!" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Um estudante de Engenharia de Software do Brasil</h3>
 
@@ -7,16 +7,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhkejFudGRmdHllc2d0OWsyb2wxdWVyaW5vM3hranFwc3QyNDJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vyPoD0c6U0oG1ThqBn/giphy.gif" alt="Descrição do GIF" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 </p>
 
+<p align="center">
+  🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/To-Do-List-Gabes">To-Do List Gabes</a>
+  <br>
+  🌱 Aprendendo: <strong>Java, Python, Angular...</strong>
+  <br>
+  📫 Fala comigo: <strong>se.gabrielamaral@gmail.com</strong>
+</p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: left;">
-    <ul>
-      <li>🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/To-Do-List-Gabes">To-Do List Gabes</a></li>
-      <li>🌱 Aprendendo: <strong>Java, Python, Angular...</strong></li>
-      <li>📫 Fala comigo: <strong>se.gabrielamaral@gmail.com</strong></li>
-    </ul>
-  </div>
-</div>
 
 <h3 align="center">Estou online em:</h3>
 <p align="center">
