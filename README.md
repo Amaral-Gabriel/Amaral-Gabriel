@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🔭 Esse é o meu projeto atual: <a href="(https://github.com/Amaral-Gabriel/Sprint-Final)">Ford ENTER projeto final.</a>
+  🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/Sprint-Final">Ford ENTER projeto final.</a>
   <br>
   🌱 Aprendendo: <strong>Java, Python, Angular...</strong>
   <br>
