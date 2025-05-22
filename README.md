@@ -10,7 +10,7 @@
 <p align="center">
   🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/Sprint-Final">Ford ENTER projeto final.</a>
   <br>
-  🌱 Aprendendo: <strong>Java, Python, Angular...</strong>
+  🌱 Aprendendo: <strong>Angular, Python, Typescript...</strong>
   <br>
   📫 Fala comigo: <strong>se.gabrielamaral@gmail.com</strong>
 </p>
