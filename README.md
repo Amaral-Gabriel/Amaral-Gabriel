@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/Sprint-Final">Ford ENTER projeto final.</a>
+  🔭 Esse é o meu projeto atual: <a href="https://github.com/Amaral-Gabriel/Curso-Cs">Ford ENTER projeto final.</a>
   <br>
-  🌱 Aprendendo: <strong>Angular, Python, Typescript...</strong>
+  🌱 Aprendendo: <strong>Angular, C#, Metodologias ágeis</strong>
   <br>
   📫 Fala comigo: <strong>se.gabrielamaral@gmail.com</strong>
 </p>
